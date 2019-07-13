@@ -5,12 +5,6 @@ import java.util.Date;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * 在这里我们使用RestController  （等待于 @Controller 和 @RequestBody）
- * @author Angel -- 守护天使
- * @version v.0.1
- * @date 2016年12月10日
- */
 @RestController
 public class HelloController {
 	
